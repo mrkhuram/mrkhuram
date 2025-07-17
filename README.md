@@ -90,7 +90,7 @@ Here's a glimpse of the technologies and tools I enjoy working with:
 
 ### 🔗 Connect with Me
 
-* **LinkedIn:** <a href="[https://www.linkedin.com/in/mrkhuram00/]" target="_blank">MRKHURAM</a>
+* **LinkedIn:** <a href="https://www.linkedin.com/in/mrkhuram00/" target="_blank">*MRKHURAM*</a>
 
 * **GitHub:** [https://github.com/mrkhuram](https://www.google.com/search?q=https://github.com/mrkhuram)
 
