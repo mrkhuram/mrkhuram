@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋, I'm Khuram!
 
 Welcome to my GitHub profile! I'm passionate about a **Frontend role using React, TypeScript, and Next.js** and love building **modern, interactive, and high-performance web applications**.
@@ -132,4 +131,3 @@ Feel free to explore my repositories to see some of my work. Here are a few high
 * **Smart Learner (EdTech Startup):** Collaborated in an Agile team to develop REST APIs and convert wireframes into responsive UIs using React.js, Node.js, and MongoDB.
 
 Thanks for stopping by!
-```
