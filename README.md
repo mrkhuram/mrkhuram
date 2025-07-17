@@ -84,15 +84,8 @@ Here's a glimpse of the technologies and tools I enjoy working with:
 
 ### 📈 My GitHub Stats
 
-You can add dynamic GitHub stats here using services like [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) or [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats).
 
-For example, to add a basic stats card:
-
-```
-
-[](https://github.com/anuraghazra/github-readme-stats)
-
-```
+[https://github-readme-stats.vercel.app/api?username=mrkhuram](https://github.com/anuraghazra/github-readme-stats)
 
 And for top languages:
 
