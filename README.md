@@ -87,17 +87,10 @@ Here's a glimpse of the technologies and tools I enjoy working with:
 
 [![Khuram's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkhuram)](https://github.com/mrkhuram/github-readme-stats)
 
-And for top languages:
-
-```
-
-[](https://github.com/anuraghazra/github-readme-stats)
-
-```
 
 ### 🔗 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/)
+* **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/]([https://www.linkedin.com/in/mrkhuram00/])
 
 * **GitHub:** [https://github.com/mrkhuram](https://www.google.com/search?q=https://github.com/mrkhuram)
 
