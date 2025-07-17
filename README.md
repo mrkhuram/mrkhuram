@@ -85,7 +85,7 @@ Here's a glimpse of the technologies and tools I enjoy working with:
 ### 📈 My GitHub Stats
 
 
-[https://github-readme-stats.vercel.app/api?username=mrkhuram](https://github.com/anuraghazra/github-readme-stats)
+[![Khuram's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkhuram)](https://github.com/mrkhuram/github-readme-stats)
 
 And for top languages:
 
