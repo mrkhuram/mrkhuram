@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about a **Frontend role using React
 <a href="https://twitter.com/your-twitter-handle" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
-<a href="https://vercel.com/ksalex23-8878s-projects/v0-animated-portfolio-website" target="_blank">
+<a href="https://v0-animated-portfolio-website-lovat.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
 </a>
 <a href="mailto:khuram.shahzad39106@gmail.com" target="_blank" rel="noopener noreferrer">
